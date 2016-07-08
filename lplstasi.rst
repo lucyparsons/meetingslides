@@ -8,7 +8,7 @@
 
 .. image:: images/LPLlogo.png
 
-Jennifer Helsby (``@redshiftzero``) & Freddy Martinez (``@B_meson``) & Mason Donahue (``@r4v5``) & Brian Kroll (``@foebrian``) for Lucy Parsons Labs (``@lucyparsonslabs``)
+Jennifer Helsby (``@redshiftzero``) & Freddy Martinez (``@B_meson``) & Mason Donahue (``@r4v5``) & Brian Kroll (``@cipherguerrilla``) for Lucy Parsons Labs (``@lucyparsonslabs``)
 
 ----
 
