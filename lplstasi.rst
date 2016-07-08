@@ -100,15 +100,19 @@ Miscellaneous
 
 * CPD FOIA Database Analysis
 * BLM Surveillance Video
-  
+
   - https://vimeo.com/169915958
-* HackBack! interview 
-   
+
+* HackBack! interview
+
   - https://medium.com/@B_meson/hackback-an-interview-320a6ac4a1b4#.8mj0cf6db
+
 * Stingray Warrant Requirement Bill
-  
-  - https://lucyparsonslabs.com/stingray/stingraybill/
-* Propaganda Posters for Sale
+
+  -  https://lucyparsonslabs.com/stingray/stingraybill/
+
+* Propaganda Posters for sale
+* Stingray deployment statistics 
 * Talk at ChiHackNight
 * EFF SSD event (hi FBI!)  
 
