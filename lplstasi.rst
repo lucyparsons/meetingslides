@@ -8,7 +8,7 @@
 
 .. image:: images/LPLlogo.png
 
-Jennifer Helsby (``@redshiftzero``) & Freddy Martinez (``@B_meson``) & Mason Donahue (``@r4v5``) & Brian Kroll (``@cipherguerrilla``) for Lucy Parsons Labs (``@lucyparsonslabs``)
+``@redshiftzero`` & ``@B_meson`` & ``@r4v5`` & ``@cipherguerrilla`` for Lucy Parsons Labs (``@lucyparsonslabs``)
 
 ----
 
@@ -18,41 +18,6 @@ Who was Lucy Parsons?
 She was a famous labor organizer and anarchist in Chicago during the late 19th century. Once described as "more dangerous than a thousand rioters" by Chicago Police and helped found the Industrial Workers of the World (IWW)
 
 ----
-
-Board of Directors
-==================
-
-Freddy Martinez
-
-Jennifer Helsby
-
-Brian Kroll
-
-Mason Donahue
-
-----
-
-Members 
-=======
-
-Audrey Hebson
-
-Lincoln Bryant
-
-John Bumstead
-
-Zach S 
-
-Travis McDermott
-
-Dan Massoglia
-
-Candice Carrasso
-
-You??
-
-----
-
 
 Our Mission
 ===========
@@ -80,7 +45,7 @@ Current Projects
 
   - Hopefully publish August 4th 
 
-  - Want to create a frontend for this: Help needed here
+  - Want to create a frontend to visualize this data: Help wanted 
 
 ----
 
@@ -93,9 +58,7 @@ OpenOversight
 
 * Accomplish this through a database of officers and photos constructed through public data
 
-* Web application with two use cases:
-  - Complainants use to construct a digital line up to find the officer
-  - People submit new images of officers to keep the data up to date 
+* Web application with two use cases: Complainants use to construct a digital line up to find the officer, people submit new images of officers to keep the data up to date 
 
 ----
 
@@ -114,6 +77,7 @@ OpenOversight
   - Encrypts submissions in transit and rest
 
 * We deployed this at: https://lucyparsonslabs.com/securedrop
+* Help wanted advertising
 
 ----
 
@@ -125,19 +89,12 @@ Miscellaneous
 =============
 
 * CPD FOIA Database Analysis
-* BLM Surveillance Video
+* BLM Surveillance Video:  https://vimeo.com/169915958
 
-  - https://vimeo.com/169915958
+* HackBack! interview:  https://medium.com/@B_meson/hackback-an-interview-320a6ac4a1b4#.8mj0cf6db
 
-* HackBack! interview
+* Stingray Warrant Requirement Bill:  https://lucyparsonslabs.com/stingray/stingraybill/
 
-  - https://medium.com/@B_meson/hackback-an-interview-320a6ac4a1b4#.8mj0cf6db
-
-* Stingray Warrant Requirement Bill
-
-  -  https://lucyparsonslabs.com/stingray/stingraybill/
-
-* Propaganda Posters for sale
 * Stingray deployment statistics 
 * Talk at ChiHackNight
 * EFF SSD event (hi FBI!)  
@@ -159,7 +116,7 @@ New Projects
 
 Organization Things
 ===================
-* Applied for 501c3 non profit status
+* Applying for 501c3 non profit status
 
   - Allow us to write letters on behalf of people who have been arrested to judges
 
