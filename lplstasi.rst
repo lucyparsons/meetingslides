@@ -64,6 +64,10 @@ The Lucy Parsons Labs is a Chicago-based collaboration between data scientists, 
 Current Projects
 ================
 
+
+
+----
+
 .. image:: images/muckrock.png
 
 * Audit of CPD's civil asset forfeiture program (1505)
@@ -176,3 +180,7 @@ Ways to Get Involved
   - If you're a journalist or know people who can help us dig through documents
 
   - Give us your email, join us on slack, we can add you to our public Trello
+
+----
+
+.. image:: images/ftp-sm.png
