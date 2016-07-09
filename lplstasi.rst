@@ -35,6 +35,8 @@ Mason Donahue
 Members 
 =======
 
+Audrey Hebson
+
 Lincoln Bryant
 
 John Bumstead
@@ -46,6 +48,8 @@ Travis McDermott
 Dan Massoglia
 
 Candice Carrasso
+
+You??
 
 ----
 
@@ -62,27 +66,39 @@ Current Projects
 
 .. image:: images/muckrock.png
 
-* Audit of CPDs civil asset forfeiture program (1505)
+* Audit of CPD's civil asset forfeiture program (1505)
   
   - Story in the Chicago Reader with Joel Handley 
   
-  - All amounts over $5,000 since 2009
+  - All amounts over $5,000 since 2009: Accounted for many millions of dollars of seized money 
  
-  - 1505 funds used to pay for day to day operations of war on drugs but also for surveillance devices like ALPR 
+  - Funds used to pay for day to day operations of war on drugs but also for surveillance devices like ALPR 
 
   - Hopefully publish August 4th 
+
+  - Want to create a frontend for this: Help needed here
 
 ----
 
 OpenOversight
 =============
 
-* Jen will write some stuff
- 
+* Many complaints are thrown out due to no badge number or name being associated with a complaint 
+
+* Want to build a tool to help people identify officers when filing police complaints
+
+* Accomplish this through a database of officers and photos constructed through public data
+
+* Web application with two use cases:
+  - Complainants use to construct a digital line up to find the officer
+  - People submit new images of officers to keep the data up to date 
+
 ----
 
-SecureDrop 
-==========
+.. image:: images/oo_example1.png
+
+----
+
 .. image:: images/securedrop-logo.png
 
 * An anonymous whistleblowing system that:
@@ -92,6 +108,12 @@ SecureDrop
   - Does not log data about your browser, device, etc.
 
   - Encrypts submissions in transit and rest
+
+* We deployed this at: https://lucyparsonslabs.com/securedrop
+
+----
+
+.. image:: images/securedrop_leak2.png
 
 ----
 
@@ -126,6 +148,7 @@ New Projects
   - Security Trainings with targeted groups
 
 * FBI Facial Recognition Database
+
 * Propaganda / SecureDrop outreach 
 
 ----
@@ -136,23 +159,20 @@ Organization Things
 
   - Allow us to write letters on behalf of people who have been arrested to judges
 
-* Wrote bylaws (which can be ammended) 
+* Wrote bylaws (which can be amended) 
 
 ----
 
 Ways to Get Involved
 ====================
 
-* We all have day jobs too! So we need your help...
+  - Planning events and doing outreach
 
-  - Planning events and doing outreach is something we struggle with
+  - We need help doing press releases, social media posts, making
+    stickers/posters
 
-  - We need help doing press releases, social media posts
+  - If you have development skills for OpenOversight and 1505 visualization
 
-  - If you have front-end development skills  (OpenOversight, 1505 visualization)
+  - If you're a journalist or know people who can help us dig through documents
 
-  - We need help making posters, stickers and propaganda 
-
-  - If you're a journalist or know people who can help us dig through documents holler at your boy (that's me). 
-
-  - Public Trello, private GitHub
+  - Give us your email, join us on slack, we can add you to our public Trello
