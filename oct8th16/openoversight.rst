@@ -31,13 +31,17 @@ Current Projects
 
 ----
 
+.. image:: images/reader_cover.png
+
+----
+
 .. image:: images/muckrock.png
 
 * Audit of CPD's civil asset forfeiture program (1505)
   
-  - Story in the Chicago Reader with Joel Handley 
+  - Front page story published in the Chicago Reader with Joel Handley 
   
-  - All amounts over $5,000 since 2009: Accounted for many millions of dollars of seized money 
+  - All amounts over $5,000 since 2009: Accounted for millions of dollars of seized money 
  
   - Funds used to pay for day to day operations of war on drugs but also for surveillance devices like ALPR 
 
@@ -73,7 +77,15 @@ OpenOversight
 
 ----
 
-.. image:: images/oo_example1.png
+.. image:: images/submission_form.png
+
+----
+
+.. image:: images/digital_gallery.png
+
+----
+
+.. image:: images/complaint_route.png
 
 ----
 
@@ -83,9 +95,9 @@ PoC || GTFOH
 ----
 
 * Added a new theme
-* Switching backend database data sources and migrating
+* Backend / database improvements 
 * Need UI/UX support 
-* Unit test needed and integration testing
+* Unit tests needed and integration testing
 * Sending this week to journalists
 
 ----
