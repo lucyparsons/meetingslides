@@ -141,6 +141,8 @@ New Projects
 
 * Propaganda / SecureDrop outreach 
 
+* Chicago Bond Fund reached out about possible technical mutual aid they need
+
 ----
 
 Organization Things
@@ -172,4 +174,4 @@ Ways to Get Involved
 ACKs
 ====
 
-Many thanks are needed to many people but in particular: Joel Handley, Robin Amer (Editor @ Reader), UnrealAdam, John B (FOIA Commander), Candice, John O and Audrey H.
+Many thanks are needed to many people but in particular: Joel Handley, Robin Amer (Editor @ Reader), Dan M, UnrealAdam, John B (FOIA Commander), Candice, John O and Audrey H.
